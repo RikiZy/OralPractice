@@ -1,0 +1,33 @@
+# Gradle
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Documentation
+README.md
+*.md
+
+# Test results
+test-results/
+
+# Logs
+*.log
+
+# Runtime
+*.pid
+*.seed
+*.pid.lock
